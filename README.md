@@ -1,0 +1,2 @@
+# Saberi_et_al_2022_IJWF
+Data accompanying the manuscript 'Do You CBI Do what I see? The relationship between the Composite Burn Index and quantitative field measures of  burn severity varies across gradients of forest structure' by Saberi,Agne, and Harvey published in International Journal of Wildland Fire. See the main text of the manuscript for complete descriptions of how data were collected, and greater specifics on values.
