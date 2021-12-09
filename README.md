@@ -30,6 +30,7 @@ This file contains aggregated plot-level data necessary to the run the analyses.
 10. prop_killedBA:  killed basal area per plot as a proportion between 0 and 1
 11. prop_killedSTEM: killed stems per plot as a proportion between 0 and 1
 12. prop_meanbolescorch: mean killed bole scorch per plot as a proportion between 0 and 1
-13.prop_meancharht: mean char height per plot as a proportion between 0 and 1
-14.prop_surfcharmean: mean surface char per plot as a proportion between 0 and 1
-15. TotalPlotCBI_mean: mean total plot CBI value between 0 and 3
+13. prop_meancharht: mean char height per plot as a proportion between 0 and 1   
+14. prop_surfcharmean: mean surface char per plot as a proportion between 0 and 1
+15. TotalPlotCBI_mean: mean total plot CBI value between 0 and 3 
+
