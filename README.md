@@ -18,18 +18,18 @@ fieldmeasures_IPNW.csv
 
 This file contains aggregated plot-level data necessary to the run the analyses. The following columns are included:
 
-PlotID: unique plot Identifier where burned plots have the convention: FIRE## and unburned plots have the convention FIREUNB##
-Prefire_LCC: mean prefire live canopy cover per plot as a proportion between 0 and 1
-treeheight_mean: mean tree height per plot in meters
-BA_HA: mean basal area per hectare per plot in meters squared per ha
-QMD: mean quadratic mean diameter per plot in centimeters
-stems_ha: mean stems per hectare per plot 
-livecancov_loss: live canopy cover loss per plot as a proportion between 0 and 1
-deadneedle: mean dead needle index values per plot between 1 and 7
-deepchar_mean: mean deep char index value per plot between 0 and 2
-prop_killedBA:  killed basal area per plot as a proportion between 0 and 1
-prop_killedSTEM: killed stems per plot as a proportion between 0 and 1
-prop_meanbolescorch: mean killed bole scorch per plot as a proportion between 0 and 1
-prop_meancharht: mean char height per plot as a proportion between 0 and 1
-prop_surfcharmean: mean surface char per plot as a proportion between 0 and 1
-TotalPlotCBI_mean: mean total plot CBI value between 0 and 3
+1. PlotID: unique plot Identifier where burned plots have the convention: FIRE## and unburned plots have the convention FIREUNB##
+2. Prefire_LCC: mean prefire live canopy cover per plot as a proportion between 0 and 1
+3. treeheight_mean: mean tree height per plot in meters
+4. BA_HA: mean basal area per hectare per plot in meters squared per ha
+5. QMD: mean quadratic mean diameter per plot in centimeters
+6. stems_ha: mean stems per hectare per plot 
+7. livecancov_loss: live canopy cover loss per plot as a proportion between 0 and 1
+8. deadneedle: mean dead needle index values per plot between 1 and 7
+9. deepchar_mean: mean deep char index value per plot between 0 and 2
+10. prop_killedBA:  killed basal area per plot as a proportion between 0 and 1
+11. prop_killedSTEM: killed stems per plot as a proportion between 0 and 1
+12. prop_meanbolescorch: mean killed bole scorch per plot as a proportion between 0 and 1
+13.prop_meancharht: mean char height per plot as a proportion between 0 and 1
+14.prop_surfcharmean: mean surface char per plot as a proportion between 0 and 1
+15. TotalPlotCBI_mean: mean total plot CBI value between 0 and 3
