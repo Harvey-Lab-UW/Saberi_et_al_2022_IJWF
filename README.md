@@ -34,3 +34,5 @@ This file contains aggregated plot-level data necessary to the run the analyses.
 14. prop_surfcharmean: mean surface char per plot as a proportion between 0 and 1
 15. TotalPlotCBI_mean: mean total plot CBI value between 0 and 3 
 
+[![DOI](https://zenodo.org/badge/436449751.svg)](https://zenodo.org/badge/latestdoi/436449751)
+
