@@ -35,4 +35,5 @@ This file contains aggregated plot-level data necessary to the run the analyses.
 15. TotalPlotCBI_mean: mean total plot CBI value between 0 and 3 
 
 [![DOI](https://zenodo.org/badge/436449751.svg)](https://zenodo.org/badge/latestdoi/436449751)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5768752.svg)](https://doi.org/10.5281/zenodo.5768752)
 
